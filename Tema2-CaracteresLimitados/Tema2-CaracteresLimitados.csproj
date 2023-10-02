@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Tema2_CaracteresLimitados</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>c.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="c.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="c.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="c.ico" />
+  </ItemGroup>
+
+</Project>
