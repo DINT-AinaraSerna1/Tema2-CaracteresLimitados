@@ -8,24 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ainar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\alumno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ainar\\Documents\\DAM2\\DINT\\Tema 2\\Práctica\\Ainara Serna - UT2-Actividades\\Tema2-CaracteresLimitados\\Tema2-CaracteresLimitados.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\Documents\\DAM2\\DINT\\Tema 2\\Prácticas\\Tema2-FormatoTexto\\Tema2-CaracteresLimitados\\Tema2-CaracteresLimitados.csproj",
       "projectName": "Tema2-CaracteresLimitados",
-      "projectPath": "C:\\Users\\ainar\\Documents\\DAM2\\DINT\\Tema 2\\Práctica\\Ainara Serna - UT2-Actividades\\Tema2-CaracteresLimitados\\Tema2-CaracteresLimitados.csproj",
-      "packagesPath": "C:\\Users\\ainar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ainar\\Documents\\DAM2\\DINT\\Tema 2\\Práctica\\Ainara Serna - UT2-Actividades\\Tema2-CaracteresLimitados\\obj\\",
+      "projectPath": "C:\\Users\\alumno\\Documents\\DAM2\\DINT\\Tema 2\\Prácticas\\Tema2-FormatoTexto\\Tema2-CaracteresLimitados\\Tema2-CaracteresLimitados.csproj",
+      "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alumno\\Documents\\DAM2\\DINT\\Tema 2\\Prácticas\\Tema2-FormatoTexto\\Tema2-CaracteresLimitados\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ainar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
